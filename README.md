@@ -35,4 +35,4 @@ npm start
 
 ### How it works
 
-<img src="https://cdn.pbrd.co/images/HS5wzR0.png" width=700 height=700>
+<img src="https://cdn.pbrd.co/images/HS5wzR0.png" width=800 height=700>
