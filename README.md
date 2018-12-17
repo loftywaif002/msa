@@ -4,6 +4,10 @@ Screenshot: <br />
 
 <img src="https://cdn.pbrd.co/images/HS5oZd9.png" width=700 height=500>
 
+## Dataset used
+
+* [lrc-dataset](https://docs.google.com/spreadsheets/d/1qZ4DzdDQO8WjM5irCyhTuZ3RtoRQa80jJXQ_9WqpTfE/edit#gid=0)
+
 ### Prerequisites
 
 1. Python 3.6.* [Backend]
@@ -29,4 +33,6 @@ npm install
 npm start
 ```
 
+### How it works
 
+<img src="https://pasteboard.co/HS5wzR0.png" width=800 height=800>
