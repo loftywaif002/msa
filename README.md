@@ -8,6 +8,10 @@ Screenshot: <br />
 
 * [lrc-dataset](https://docs.google.com/spreadsheets/d/1qZ4DzdDQO8WjM5irCyhTuZ3RtoRQa80jJXQ_9WqpTfE/edit#gid=0)
 
+## SDK used for lrc data analysis
+
+* [Watson-developer-cloud](https://github.com/watson-developer-cloud/python-sdk)
+
 ### Prerequisites
 
 1. Python 3.6.* [Backend]
