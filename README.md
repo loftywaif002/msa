@@ -10,7 +10,7 @@ Screenshot: <br />
 
 ## SDK used for lrc data analysis
 
-* [Watson-developer-cloud](https://github.com/watson-developer-cloud/python-sdk)
+* [Watson Developer Cloud Python SDK](https://github.com/watson-developer-cloud/python-sdk)
 
 ### Prerequisites
 
