@@ -1,4 +1,4 @@
-# Emotional Data analysis from lrc data [.csv format]
+# Emotional Data analysis from lrc data
 
 Screenshot: <br />
 
