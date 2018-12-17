@@ -2,7 +2,7 @@
 
 Screenshot: <br />
 
-<img src="https://imgur.com/a/nDyh9CS" width=500 height=300>
+<img src="https://cdn.pbrd.co/images/HS5oZd9.png" width=700 height=500>
 
 ### Prerequisites
 
