@@ -155,8 +155,9 @@ class App extends Component {
                     }
                   }
                  console.log('Ontyping fetched Lyrics is====', lyrics)
-                 that.mainLyrics.line = lyrics
-                
+                 if(lyrics){
+                  that.mainLyrics.line = lyrics
+                 }
                   return {
                     description: (
                       <div className="main-description">
