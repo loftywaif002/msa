@@ -10,7 +10,7 @@
 
 ### Prerequisites
 
-1. Python 3.6.* [Backend]
+1. Python 3.6.2 [Backend]
 2. Node v8* 
 
 
@@ -21,7 +21,7 @@ Backend Server setup
 git clone https://github.com/loftywaif002/msa.git
 cd msa
 source env/bin/activate [activate the virtual environment]
-pip install -r requirements.txt [install all the dependent library for back end]
+pip3 install -r requirements.txt [install all the dependent library for back end]
 python lrc-sentiment-analysis.py [run the server]
 ```
 
