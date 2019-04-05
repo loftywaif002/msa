@@ -154,7 +154,7 @@ class App extends Component {
                       }
                     }
                   }
-                
+                 console.log('Ontyping fetched Lyrics is====', lyrics)
                  that.mainLyrics.line = lyrics
                 
                   return {

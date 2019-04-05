@@ -1,9 +1,5 @@
 # Emotional Data analysis from lrc data
 
-Screenshot: <br />
-
-<img src="https://cdn.pbrd.co/images/HS5oZd9.png" width=700 height=500>
-
 ## Dataset used
 
 * [lrc-dataset](https://docs.google.com/spreadsheets/d/1qZ4DzdDQO8WjM5irCyhTuZ3RtoRQa80jJXQ_9WqpTfE/edit#gid=0)
@@ -39,4 +35,4 @@ npm start
 
 ### How it works
 
-<img src="https://cdn.pbrd.co/images/HS5wzR0.png" width=800 height=700>
+![Alt text](msa/images/description.png?raw=true "How it works")
